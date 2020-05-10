@@ -1,0 +1,37 @@
+TEAM DETAILS
+NAME                                USN
+1.POOJASHREE K                      1KS18CS067
+2.VIJAYASHREE N.R                   1KS18CS116
+CONTRIBUTION
+NAME                                 CONTRIBUTION
+POOJASHREE K                         LOGIC,DEBUGGING
+VIJAYASHREE N R                      CODING,PROBLEM SOLVING
+
+INSTRUCTIONS
+1.AFTER THE COMPLITION.
+2.FIND THE SUM OF TREE DICES.
+3.ANSWER THE GIVEN QUESTIONSS IN THE OUTPUT SCREEN AS YES OR NO.
+
+DETAILS ON EXAMPLE INVOCATION AND OUTPUT
+
+OUTPUT
+Is the sum 5,9,13,12,15or16
+yes
+Is the sum 12or9
+yes
+Is the sum 9
+yes
+sum:9
+
+CHALLENGES FACED
+1.dealing with huffman tree.
+2.getting the answer less than four questions.
+
+LEARNT FROM THE ASSIGNMENT
+1.How to write efficient code.
+2.Solving the problem mathematically.
+3.How to write code using divide and conquer method.
+
+OPERATION
+1.The number of basic operations performed is given with the output.
+2.the time complexity for the problems is given in the form of comment in the source code.
