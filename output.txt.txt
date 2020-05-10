@@ -1,0 +1,8 @@
+OUTPUT
+Is the sum 5,9,13,12,15or16
+yes
+Is the sum 12or9
+yes
+Is the sum 9
+yes
+sum:9
